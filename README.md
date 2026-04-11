@@ -1,11 +1,11 @@
 # Privacy Policy
 
-YapCam: Speak Like a Pro
+YapCam: Say It On Camera
 Last updated: April 11, 2026
 
 ## Overview
 
-YapCam: Speak Like a Pro ("the App") is a teleprompter and video recording app. 
+YapCam: Say It On Camera ("the App") is a teleprompter and video recording app. 
 We are committed to protecting your privacy. This policy explains what data the 
 App accesses and how it is used.
 
@@ -58,4 +58,4 @@ new "Last updated" date.
 
 If you have questions about this privacy policy, contact:  
 pieternatanael@icloud.com
-# YapCam-Speak-Like-a-Pro
+# YapCam: Say It On Camera
